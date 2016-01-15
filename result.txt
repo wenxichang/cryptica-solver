@@ -1,0 +1,882 @@
+==12.txt==
+#########
+#  ###  #
+#  # #  #
+#  # #  #
+#       #
+#a     b#
+#########
+  R R R R R L L U U U L D 
+==13.txt==
+#########
+#    abc#
+## ######
+## ######
+## ######
+#########
+#########
+  L L L L D L D R R U R U L D D D 
+==14.txt==
+#########
+#a      #
+#b      #
+#c      #
+#d      #
+#e     ##
+#########
+  R R R R R R L U U D R L D R L D R L L L D 
+==15.txt==
+#########
+##      #
+### a   #
+##      #
+### b   #
+##      #
+#########
+  L U U D L R U U L D D D D L R R 
+==16.txt==
+#########
+#       #
+# c#b#a #
+#       #
+#       #
+#       #
+#########
+  L D R R U L L D D D 
+==17.txt==
+#########
+#       #
+#      c#
+#      a#
+#      b#
+##      #
+#########
+  L L L L L D L R R R R R U U U R L L L L L U 
+==18.txt==
+#########
+#       #
+#     c #
+#   #   #
+#     a #
+#       #
+#########
+  L U L U L D D D L L L R 
+==19.txt==
+#########
+#   a  ##
+#   b   #
+#   c   #
+#       #
+#       #
+#########
+  R R R L U R L L D D D D 
+==20.txt==
+#########
+#       #
+#       #
+#  a#c  #
+#       #
+#       #
+#########
+  L U L D D R D L R U 
+==26.txt==
+#########
+#    a###
+# #  b###
+#  #  ###
+# # # ###
+##    ###
+#########
+  L L L L D R R D D D L L U R 
+==29.txt==
+#########
+#a#bcc###
+# #    ##
+# ##   ##
+# ###  ##
+#  ######
+#########
+  D D D R R R D 
+==30.txt==
+#########
+#    #  #
+#    ## #
+# cab   #
+#    ## #
+#    #  #
+#########
+  R R R U R U L D D D L L L L 
+==e1.txt==
+#########
+#   a   #
+#   c#  #
+####c####
+#  #c   #
+#   b   #
+#########
+  L D L L U R R R R U R U R D R U L U R D 
+==e10.txt==
+#########
+#### ####
+# d b d##
+#  c a  #
+##d   d #
+#########
+#########
+  L R D D L L R D R U L U R R U 
+==e11.txt==
+#########
+#########
+#### ####
+### c ###
+## c c ##
+#b     a#
+#########
+  D D U U L L L L L D D U R R R R R R L D 
+==e12.txt==
+#########
+#bc    ##
+######e #
+#  # #e #
+#da   e #
+### ## ##
+#########
+  L R U R U R R D R U D D L L D R D L L U U R 
+==e13.txt==
+#########
+#c e e d#
+#  # #  #
+# ##### #
+# # # # #
+#b     a#
+#########
+  L R R D R R D U L L L D L L L R D U L 
+==e14.txt==
+#########
+#e  e  e#
+#  #a#  #
+# # c # #
+##  b  ##
+#   d   #
+#########
+  D L L L U R U L R U R U D L L U D L L D U L D D D R 
+==e15.txt==
+#########
+# # #   #
+#   #  ##
+#b  #  c#
+#a #  #d#
+#   # # #
+#########
+  L L D R R U R U U L L D R U R L D 
+==e16.txt==
+#########
+#    #  #
+##      #
+# baddc##
+#       #
+# #  #  #
+#########
+  L U D L U R R R R U L L L L D L U R R R R R D 
+==e17.txt==
+#########
+#   # # #
+#       #
+#  # da #
+##   bc #
+#       #
+#########
+  L U U D L U D L L U R D R U U L L U U U 
+==e18.txt==
+#########
+#d  #   #
+#  #b#  #
+# #  d# #
+#  #d#  #
+#d a#c  #
+#########
+  L U R U L U R U U L D D U L R U L D D U R U U L D 
+==e19.txt==
+#########
+#########
+### #####
+#   bacd#
+#### # ##
+#########
+#########
+  L L D R U R U L D L L 
+==e2.txt==
+#########
+# eb    #
+# ea    #
+# ec    #
+# ed    #
+##      #
+#########
+  D L R D L L R R R R U U U U R R L L L L D D D L R D L U L 
+==e20.txt==
+#########
+# #   # #
+#  #de  #
+#  b#a  #
+#  ec#  #
+# #   # #
+#########
+  U R D R U U L L L U U U D D 
+==e21.txt==
+#########
+#    ####
+#  c c###
+## bca ##
+###c c  #
+####    #
+#########
+  U R L L U U L L D D D D R R R L 
+==e22.txt==
+#########
+# #a b# #
+#  d c  #
+## e e ##
+#       #
+#   #   #
+#########
+  L L D D R L U R R R U R D R D D D L 
+==e23.txt==
+#########
+# a # b##
+# ddcdd #
+##  #   #
+##     ##
+##     ##
+#########
+  U L D L D R R R R U L L U D L D 
+==e24.txt==
+#########
+#c##ac  #
+#       #
+#       #
+#       #
+#    #bc#
+#########
+  U L L D R R U R R R R L D L D D D L L L L R U U U U 
+==e25.txt==
+#########
+#   b   #
+#   #c ##
+#       #
+## c#   #
+#   a # #
+#########
+  U U R U L R R D L L L D L L L L U U 
+==e26.txt==
+#########
+#d     ##
+#   b # #
+#  # #  #
+# # c   #
+##     a#
+#########
+  R R U U L U D D R L D U L L R U L L D L 
+==e27.txt==
+#########
+##  #c a#
+#    #  #
+#   #   #
+#  #    #
+#b c#   #
+#########
+  L D D L D L U U U U R R R D L U L L D D 
+==e28.txt==
+#########
+#  b#a  #
+# # ##  #
+#########
+#   # d #
+# #c## ##
+#########
+  R L D L U R L D R R 
+==e29.txt==
+#########
+####  ###
+## cbc###
+##     ##
+###cac ##
+###  ####
+#########
+  U R U R D D L L U U R R R D 
+==e3.txt==
+#########
+#      d#
+#      d#
+#      d#
+#     c##
+#   #ba##
+#########
+  U L L D D R R L D R R D L L U L D D R R U U R D D R L 
+==e30.txt==
+#########
+##     ##
+###    ##
+#d#   #b#
+#d     a#
+#d     c#
+#########
+  L D R R R L U U L L L L D R R D U U R R U L L L U R R R D D D D 
+==e4.txt==
+#########
+#   #ca##
+#     c##
+#      ##
+#  #c  ##
+# ##b  ##
+#########
+  D L D U L L D U R D D D L L R 
+==e5.txt==
+#########
+###   ###
+###  c###
+### a   #
+###b d###
+#     ###
+#########
+  R R U R D D L L L L R U U 
+==e6.txt==
+#########
+# ####d #
+#  bac  #
+#   #   #
+#       #
+#       #
+#########
+  D D R R L D L L L R U U R R L L U U L R 
+==e7.txt==
+#########
+##    # #
+##      #
+##a b c #
+#  d d  #
+# ###   #
+#########
+  D L U L D U R U R R R R R D D D L L L L L D L U U U U L L L 
+==e8.txt==
+#########
+#  c#####
+# b  ####
+# c   c #
+####  a #
+#####c  #
+#########
+  L U L R R U R L U L U D R R R L U R D D 
+==e9.txt==
+#########
+#       #
+# b e d #
+##  e  ##
+##a e c #
+#   #   #
+#########
+  L R U R L D D D D L D R R D R R U U U U L R R L 
+==h1.txt==
+#########
+#       #
+#   #   #
+##      #
+#c      #
+#ba     #
+#########
+  R U U L U U R R D L L L D D D R R 
+==h10.txt==
+#########
+#b #   a#
+#  #    #
+#  ### c#
+#    # c#
+#    # c#
+#########
+  L U L R D D D R R U U L U D L U U D R R 
+==h11.txt==
+#########
+#       #
+# # # # #
+#b a c d#
+# # # # #
+#       #
+#########
+  L L L D R R R R U L D L D R U U R L U L R 
+==h12.txt==
+#########
+#       #
+# #ddd  #
+#  bac  #
+#       #
+#       #
+#########
+  L U D L D L U D L U U U R U D R R R R R D D D 
+==h13.txt==
+#########
+#########
+### #####
+#  cca  #
+## ccb  #
+#########
+#########
+  U R D L U L L U R R R R D L D L L L L U 
+==h14.txt==
+#########
+#b     a#
+#  #    #
+#       #
+#    #  #
+#d     c#
+#########
+  L L L D D L U U U R R R L D R 
+==h15.txt==
+#########
+##   bc #
+# #   cc#
+#  #   a#
+#   #   #
+#    #  #
+#########
+  R D D D L U L D U U D L D 
+==h16.txt==
+#########
+# d    ##
+# d   b##
+#     a #
+# d   c##
+# d    ##
+#########
+  U R L U U R R R R L L L D D D D L L 
+==h17.txt==
+#########
+#       #
+# #     #
+#cab    #
+#  #    #
+#       #
+#########
+  R U U L D D L D R R U L R D R L D R R 
+==h18.txt==
+#########
+#   a   #
+#       #
+#   c   #
+#       #
+##c b c##
+#########
+  U L D R R R R R R L D R L D R L U U U U 
+==h19.txt==
+#########
+# #######
+#    ####
+#       #
+#   ba  #
+#c      #
+#########
+  U U R R R R L U R L L U R R D D D U U 
+==h2.txt==
+#########
+#     # #
+# #a# # #
+# #c### #
+# #d#   #
+# #b    #
+#########
+  R R D R R U U L U R U R D R U L L L L 
+==h20.txt==
+#########
+#   #   #
+# ###   #
+#c b a c#
+#   ### #
+#   #   #
+#########
+  L U U R R R D L L D L L L L U R U L U R U R 
+==h21.txt==
+#########
+##   c###
+# a  #  #
+#   #   #
+#  #  b #
+#c#    ##
+#########
+  L L L D L R U R U U U L D L U D L R U R U 
+==h22.txt==
+#########
+#       #
+# #b a  #
+#       #
+# #d c  #
+#       #
+#########
+  L D D L D L U U L U R R R R 
+==h23.txt==
+#########
+#       #
+#  #da  #
+#  #bc  #
+#       #
+#       #
+#########
+  D D L L U L U R U U D R R R D R U U 
+==h24.txt==
+#########
+#       #
+# dbca# #
+#       #
+#       #
+#       #
+#########
+  D R U D R R U L L U R R U D R R L L L D D D 
+==h25.txt==
+#########
+## ccc# #
+#       #
+# #   # #
+#       #
+# #b a###
+#########
+  U R R D D U L L L U D L U D L U U 
+==h26.txt==
+#########
+#       #
+####a   #
+# ccccc #
+#   b####
+#       #
+#########
+  L L U L D D D U R R R R R R D 
+==h27.txt==
+#########
+#       #
+#       #
+#  #bac #
+#  #d d #
+#  #    #
+#########
+  L U U L L D D L D D R R D U U R D D 
+==h28.txt==
+#########
+##      #
+## #a#  #
+#  ccc  #
+#  #b#  #
+#       #
+#########
+  L L U L U L D R R R D D R U L L U 
+==h29.txt==
+#########
+##ddddd##
+# b   c #
+#       #
+#       #
+#   a   #
+#########
+  L D R U U R R D D D D U U U D R U U L D L D D D L L R 
+==h3.txt==
+#########
+####a####
+# bd dc #
+# ####  #
+#    #  #
+##   #  #
+#########
+  D R R D L D D R U L U L L L D L L D L R D L D R R R D R R 
+==h30.txt==
+#########
+#  bca  #
+#  d d  #
+# ##### #
+#   #   #
+##  #   #
+#########
+  R R R D D R D L D R U L L L L L D D L D R U R R R 
+==h4.txt==
+#########
+#   #   #
+#   c # #
+#  b a  #
+# # c   #
+#       #
+#########
+  L L D L L R R R D R U U U L R U L 
+==h5.txt==
+#########
+#  b a  #
+#       #
+#  d#d  #
+#   d   #
+#   c   #
+#########
+  D D L L L U U U U D D R D D U U R R D D 
+==h6.txt==
+#########
+#dd     #
+#ba     #
+###     #
+#  #    #
+# c#    #
+#########
+  R D L R R R D D D U L R D D L U U U U D 
+==h7.txt==
+#########
+#  #   ##
+#a #c  ##
+## #c# b#
+##  c#  #
+##   # ##
+#########
+  R R D D L U L D D U U L D 
+==h8.txt==
+#########
+##bb   ##
+##b######
+##bbb####
+####a# ##
+#      ##
+#########
+  D L D R D R U R D R D L L L D R U U L L U R U R R 
+==h9.txt==
+#########
+#   #d a#
+##   #d #
+# # c # #
+# d#   ##
+#b  #   #
+#########
+  U L L U L D D R R L 
+==m10.txt==
+#########
+##     c#
+#       #
+#   b   #
+#   a   #
+#c      #
+#########
+  R R R L L L L L U U U D L U U D L R R R 
+==m11.txt==
+#########
+# b # c #
+# # # # #
+# # # # #
+# # # # #
+# # a # #
+#########
+  R D L L D D D R U L U U L D L 
+==m12.txt==
+#########
+#bc     #
+# c     #
+# c     #
+# c     #
+# ca    #
+#########
+  D D D D L R R R R U R U U U 
+==m13.txt==
+#########
+#   a   #
+#       #
+#   c # #
+#       #
+#   b   #
+#########
+  R U U R U R D D L D R U L L L L 
+==m14.txt==
+#########
+#       #
+# d # b #
+#  ###  #
+# a # c #
+#       #
+#########
+  R U R R L D R R R L L U 
+==m15.txt==
+#########
+# #     #
+#     # #
+# #bac# #
+# ## ## #
+#       #
+#########
+  U L L U L D R R U R D D D 
+==m16.txt==
+#########
+#  dda  #
+######  #
+######  #
+#   b   #
+#   #####
+#########
+  L D R R R D R U D D L L L L L U U 
+==m17.txt==
+#########
+# ###   #
+#  d#   #
+# a # c #
+#d  #   #
+#   #   #
+#########
+  R L U L U R D D D D L U U 
+==m18.txt==
+#########
+#  bad  #
+#      ##
+#    #  #
+# ####  #
+#    #  #
+#########
+  R R D D L D R D D D L L L D D R U U L 
+==m19.txt==
+#########
+#   #   #
+#a  #   #
+#b      #
+#c      #
+#       #
+#########
+  R R R L D D D U U R D R U U R R R 
+==m20.txt==
+#########
+## abc ##
+## ### ##
+##  #  ##
+## ### ##
+##     ##
+#########
+  L D L D R R R U D D L 
+==m21.txt==
+#########
+#       #
+#    #  #
+#  cab  #
+#    #  #
+#       #
+#########
+  U R D R R R L D L U U L L 
+==m22.txt==
+#########
+# abdd  #
+# c     #
+# ##### #
+# ##  # #
+#     # #
+#########
+  R R R R R D L L L D L D L D L R D L D R D R D R U R R D 
+==m23.txt==
+#########
+#  cab  #
+# ##### #
+# #     #
+# # ### #
+#       #
+#########
+  R R D R D L L L L D L 
+==m24.txt==
+#########
+#     ###
+# # c ###
+### b # #
+### a # #
+###     #
+#########
+  L U L R D D D D L R U U U U R D D D R R U L U U L L D L D 
+==m25.txt==
+#########
+#       #
+#c # #  #
+#a  ## d#
+#b # #  #
+#       #
+#########
+  R R U R D D R R D R R L L U L D R R 
+==m26.txt==
+#########
+#     # #
+#     # #
+#  dad  #
+#   b   #
+#       #
+#########
+  R U D R R U U R D L U L L L L L 
+==m27.txt==
+#########
+######  #
+#  c c  #
+#   #   #
+#  a b  #
+#       #
+#########
+  U L R U D D R U U U L L L 
+==m28.txt==
+#########
+#  #a#  #
+#### ####
+#b ### c#
+# ## ## #
+#e  d  e#
+#########
+  L R R U L U R R D 
+==m29.txt==
+#########
+#  ####c#
+# #   # #
+# # b # #
+# #   # #
+#a#d#e# #
+#########
+  U L D L U U U U R D D D D R L 
+==m30.txt==
+#########
+#       #
+#   a#  #
+# ##b## #
+#  #c   #
+#       #
+#########
+  U R D R R D D L L L L U L 
+==m4.txt==
+#########
+#  #    #
+#       #
+# a cb###
+#     ###
+#     ###
+#########
+  L U U R R R R L D D D D 
+==m5.txt==
+#########
+#########
+#      ##
+##b c a##
+##      #
+#########
+#########
+  U L D R R R R R U D R U L L L L L R R 
+==m7.txt==
+#########
+#    ddd#
+#  ac   #
+#   b   #
+#       #
+#       #
+#########
+  R D D D D R L L L U U U U L L R D D D U 
+==m8.txt==
+#########
+#   b c##
+#       #
+#  a c  #
+#       #
+#       #
+#########
+  R R R D D D D R U U U U L L L L L D D D D U U 
+==m9.txt==
+#########
+###    ##
+###     #
+#       #
+##      #
+#  ba   #
+#########
+  L L U R U L L R U U L R U D D L U R R R U R R R L L D 
