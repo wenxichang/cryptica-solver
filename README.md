@@ -4,7 +4,7 @@ gcc solve.c -Wall -O2 -o solve
 
 # Run
 
-./solve level/e11.txt
+./solve level/e10.txt
 
 # The level file
 
